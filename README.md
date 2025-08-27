@@ -18,9 +18,9 @@ https://github.com/omerbt/TokenFlow/assets/52277000/93dccd63-7e9a-4540-a941-3196
 
 **TokenFlow** is a framework that enables consistent video editing, using a pre-trained text-to-image diffusion model, without any further training or finetuning.
 
-[//]: # "as described in <a href="https://arxiv.org/abs/2302.08113" target="_blank">&#40;link to paper&#41;</a>."
+[//]: # ("as described in <a href="https://arxiv.org/abs/2302.08113" target="_blank">&#40;link to paper&#41;</a>.")
 
-[//]: # ". It can be used for localized and global edits that change the texture of existing objects or augment the scene with semi-transparent effects &#40;e.g. smoke, fire, snow&#41;."
+[//]: # "(. It can be used for localized and global edits that change the texture of existing objects or augment the scene with semi-transparent effects &#40;e.g. smoke, fire, snow&#41;.")
 
 [//]: # (### Abstract)
 
